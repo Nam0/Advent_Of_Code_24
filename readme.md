@@ -8,6 +8,7 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 ## Structure
 Under AdventOfCode there is a folder for each Day and then the code is structured in such a way that it is D#P#.go to sort it into days and problems numbers.
 Inputs will be under D#Input.txt
+I dont care about the Duplicate declaration errors it doesn't matter RAHHHHHHH I really dont wanna make a new go project for each part
 
 ---
 
