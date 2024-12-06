@@ -1,0 +1,1 @@
+I cba to write an actual readme but D6P2 doesn't work due to how it checks for loops because it doesn't do it correctly, V2 does it correctly but slowly so I optomized it and did V3 which uses threading to get it down to 11 seconds yipee
